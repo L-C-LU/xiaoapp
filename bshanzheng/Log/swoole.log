@@ -1,0 +1,1249 @@
+[2024-06-06 04:26:24 *10.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 *11.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=11] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=10] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 *12.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=12] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 *13.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 *15.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 *16.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 *17.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 *28.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=13] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 *29.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=15] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#6[pid=16] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 *14.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=28] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=29] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 *32.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=32] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 *35.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=35] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 *36.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=36] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 *37.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 *30.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=37] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#7[pid=17] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=14] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 *38.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=30] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 *31.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=38] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:24 *33.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 *41.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 *34.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 *43.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 *39.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:24 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=41] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *42.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=31] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#6[pid=33] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=34] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=39] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=42] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *47.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *48.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *45.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *46.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *49.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=47] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=48] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=49] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *44.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *50.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *51.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=51] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=44] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=50] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *52.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *54.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *55.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=45] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=54] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=55] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *53.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *56.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *57.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=53] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *58.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=58] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=57] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *60.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *59.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=60] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *61.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#6[pid=46] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=52] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *63.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=59] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *64.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=61] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *62.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *66.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *65.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=62] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=66] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *67.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#6[pid=63] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=64] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *69.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *68.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *70.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=43] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=56] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=65] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=67] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=68] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *40.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#6[pid=69] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *72.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#7[pid=40] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=72] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *71.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *75.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *74.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=71] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *76.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=70] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *73.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *77.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *78.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=75] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=74] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=73] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=78] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#7[pid=77] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#6[pid=76] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *81.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *79.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *82.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *84.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *83.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *85.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *80.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=79] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=81] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=84] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=80] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=82] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *86.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=83] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#7[pid=85] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *87.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#6[pid=86] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=87] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *91.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *90.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *88.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *92.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *89.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=92] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=90] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=88] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *93.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=91] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *96.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=89] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *94.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *95.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=96] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#7[pid=93] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#6[pid=94] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *99.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=95] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *100.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *101.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *97.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *103.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *104.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *98.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=100] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *102.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=99] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=101] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=104] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=97] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=98] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#6[pid=103] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *107.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#7[pid=102] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *106.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=107] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *105.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *110.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *108.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *111.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 *113.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=106] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 *112.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=105] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=108] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:25 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=110] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=111] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#6[pid=112] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#7[pid=113] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 *115.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *114.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *116.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *118.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *121.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=115] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=116] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=118] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 *117.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *120.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *122.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=114] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#6[pid=121] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=117] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=120] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 *126.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#7[pid=122] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 *124.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *125.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=126] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=124] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 *129.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *131.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=125] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 *127.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *130.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *132.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=127] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=129] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#7[pid=131] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=130] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 *133.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=132] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 *138.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *137.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *136.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *135.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *134.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=133] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 *140.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=140] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=136] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#7[pid=137] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 *139.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *141.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 *142.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[HY000] [2002]  in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php:21
+Stack trace:
+#0 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(294): EasySwoole\ORM\Db\MysqlPool->createObject()
+#1 /easyswoole/vendor/easyswoole/pool/src/AbstractPool.php(252): EasySwoole\Pool\AbstractPool->initObject()
+#2 /easyswoole/EasySwooleEvent.php(91): EasySwoole\Pool\AbstractPool->keepMin()
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}()
+#4 /easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func()
+#5 {main}
+  thrown in /easyswoole/vendor/easyswoole/orm/src/Db/MysqlPool.php on line 21
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#5[pid=142] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#2[pid=139] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#0[pid=135] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#1[pid=141] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#3[pid=134] abnormal exit, status=255, signal=0
+[2024-06-06 04:26:26 $7.0]	WARNING	swManager_check_exit_status: worker#4[pid=138] abnormal exit, status=255, signal=0
+[2024-06-06 08:43:32 *144.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=99] does not exists
+[2024-06-06 08:43:32 *128.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=100] does not exists
+[2024-06-07 10:25:17 $7.0]	INFO	Server is reloading all workers now
+[2024-06-07 10:25:23 $7.0]	INFO	Server is reloading all workers now
+[2024-06-07 10:25:41 $7.0]	INFO	Server is reloading all workers now
+[2024-06-08 04:13:03 $7.0]	INFO	Server is reloading all workers now
+[2024-06-09 17:19:39 *184.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 1284 byte failed, because connection[fd=1894] is closed
+[2024-06-10 03:39:55 *184.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 1946 byte failed, because connection[fd=2148] is closed
+[2024-06-11 01:42:40 $7.0]	INFO	Server is reloading all workers now
+[2024-06-11 07:22:45 *196.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=2571] does not exists
+[2024-06-11 14:12:21 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=2647] is closed
+[2024-06-12 00:11:08 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 348 byte failed, because connection[fd=2950] is closed
+[2024-06-12 00:30:31 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=2977] does not exists
+[2024-06-12 00:30:31 *196.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=2978] does not exists
+[2024-06-12 08:57:38 *197.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=3268] does not exists
+[2024-06-12 08:57:38 *198.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=3271] does not exists
+[2024-06-12 08:57:38 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=3266] does not exists
+[2024-06-12 08:57:39 *196.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=3270] does not exists
+[2024-06-12 09:38:53 *197.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=3297] does not exists
+[2024-06-12 09:38:53 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=3295] does not exists
+[2024-06-12 09:38:53 *196.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=3296] does not exists
+[2024-06-12 09:40:49 *196.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=3300] does not exists
+[2024-06-12 09:40:49 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=3299] does not exists
+[2024-06-12 18:59:53 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=3457] is closed
+[2024-06-13 17:34:17 *196.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=4816] does not exists
+[2024-06-14 03:48:46 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 1946 byte failed, because connection[fd=4965] is closed
+[2024-06-15 08:29:43 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 1284 byte failed, because connection[fd=6283] is closed
+[2024-06-17 06:21:50 *197.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=7445] does not exists
+[2024-06-17 06:21:50 *196.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=7444] does not exists
+[2024-06-19 03:29:07 *197.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=8494] does not exists
+[2024-06-19 03:29:07 *196.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=8493] does not exists
+[2024-06-24 14:08:36 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=11290] is closed
+[2024-06-24 14:08:39 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 1284 byte failed, because connection[fd=11293] is closed
+[2024-06-24 23:01:24 *196.5]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=11561] is closed
+[2024-07-03 13:07:56 *198.7]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=22363] is closed
+[2024-07-04 02:10:31 *198.7]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=22668] is closed
+[2024-07-04 02:10:42 *198.7]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=22669] is closed
+[2024-07-04 07:58:35 *198.7]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=22868] is closed
+[2024-07-05 13:43:55 *198.7]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 348 byte failed, because connection[fd=23504] is closed
+[2024-07-07 15:02:08 *198.7]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 420 is exceed the max name len 128
+[2024-07-10 13:53:00 *192.0]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 420 is exceed the max name len 128
+[2024-07-12 00:42:20 *192.0]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 420 is exceed the max name len 128
+[2024-07-13 11:19:24 *192.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=28764] is closed
+[2024-07-13 15:31:44 *192.0]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 420 is exceed the max name len 128
+[2024-07-14 15:21:18 *192.0]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 420 is exceed the max name len 128
+[2024-07-14 21:10:33 *192.0]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 420 is exceed the max name len 128
+[2024-07-17 01:51:15 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=31167] is closed
+[2024-07-17 18:54:52 *195.4]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 363 is exceed the max name len 128
+[2024-07-18 05:54:42 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=31898] is closed
+[2024-07-18 06:09:47 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=31906] is closed
+[2024-07-18 06:09:47 *195.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 393 byte failed, because connection[fd=31907] is closed
+[2024-07-18 12:42:57 *195.4]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 363 is exceed the max name len 128
+[2024-07-19 03:20:47 *195.4]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 363 is exceed the max name len 128
+[2024-07-19 16:14:50 *195.4]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 363 is exceed the max name len 128
+[2024-07-20 01:32:34 *195.4]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 363 is exceed the max name len 128
+[2024-07-20 20:28:06 *196.5]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 363 is exceed the max name len 128
+[2024-07-22 02:56:29 *196.5]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 363 is exceed the max name len 128
+[2024-07-22 04:31:46 *196.5]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 363 is exceed the max name len 128
+[2024-07-25 19:53:21 *196.5]	WARNING	swoole_http_parse_cookie: cookie[t('${${e...] name length 363 is exceed the max name len 128

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c80f1"],{"52ec":function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("Exception",{attrs:{type:"403"}})],1)},u=[],a={name:"exception-403",data:function(){return{}}},r=a,i=t("2877"),o=Object(i["a"])(r,c,u,!1,null,null,null);e["default"]=o.exports}}]);
